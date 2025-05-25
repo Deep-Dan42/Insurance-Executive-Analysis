@@ -5,7 +5,8 @@
 - [Project Background](#project-background)
 - [Executive Overview](#executive-overview)
 - [Insights Deep-Dive](#insights-deep-dive)
-  - [Written Premium Growth Ratio](#written-premmium-growth-ratio)
+  - [Premiums](#premiums)
+  - [Claims](#claims)
 ---
 ## Project Background
 
@@ -15,6 +16,46 @@ The initiative is designed to showcase:
 - **Business-driven data modeling:** Using star schema to optimize reporting.
 - **Actionable metrics:** Monthly premiums, claims, expenses and digital adoption.
 - **Executive reporting:** Insights that inform profitability and operational efficiency.
-- **Story behind data:** Answering How and Why it happens across data fluctuation 
+- **Story behind data:** Answering How and Why it happens across data fluctuation
+
+![ERD - Insurance Analystics](https://github.com/user-attachments/assets/4d9eb030-1545-402d-8504-66d3c7a677fb)
+Enterprise Relationship Diagram - Insurance Analytics
 
 ## Executive Overview
+
+The insurance dataset analysis of 145k records (100k policies + 45k claims) across operational years of 2020-2024, reveals robust underwritting results with an average annual Net Underwritting Income of approximately €103 million. 
+The performance is largely attributed to the strong operational discipline in the Auto and Transportation line of business, which posted combined ratios of 52.6% and 68.1% respectively - below industry benchmarks, indicating effective risk subscription criteria. In contrast, gains were partially offset by Engineering line of business facing significant challenges, with a combined ratio of 125.6% over the same period, highlightning the need for enhanced underwritting strategies or targeted loss prevention for the lob. 
+Location analysis further reveals that Portugal and Sweden outperformed other regions, benefiting from excepetional results in Transportation and Auto, as well as notably lower large claim amounts in Engineering and Liability. These favorable outcomes suggest strong market positioning, superior underwriitting, and effective loss prevention strategies in these countries. 
+
+## Insights Deep-Dive
+
+### Premiums
+
+- Averaged €2.2 billion per year, totaling €11 billion across the four-year.
+- Reflects issuance of 100,000 policies from 2020 to 2024.
+- Auto and Residence lines recorded the highest number of policies issued, underscoring their central role in the portfolio's customer reach and risk diversification. 
+- Premium volumes were primarily influenced by high-value policies in the Engineering and Liability lines, which together accounted for 58% of total written premium.
+- First quarter consistent saw a surge in policy issuance - marking a seasonal peak
+- Third quarter reflected a downturn, with fewer policies underwritten during this period
+
+Executives should consider levaraging the Auto and Residence books for cross-selling and customer retention strategies. Also addressing seasonality with marketing pushes or product launches in the third quarter to stabilize new business flows year-round.
+  
+![Written Premium Table](https://github.com/user-attachments/assets/5f02204b-f996-4559-8871-b9ecf970b842)
+![Written Premium Heatmap](https://github.com/user-attachments/assets/8d25571f-9013-4310-81cb-236e289db78f)
+
+
+### Claims
+
+- The porfolio averaged a frenquecy of 9,000 claims per year.
+- Average claim severity was approximately €220,000 across the analyzed period.
+- 33% of all claims were processed and paid, with an average processing time of 56 days - an indicator of operational efficiency.
+- The highest claims amounts were concentrated in the Engineering and Liability lines, due to several large losses - mostly in Italy and Netherlands. These segments drove loss ratios and combined ratios above 100% for Engineering, and around 95% for Liability.
+- Expenses represented 4.6% of Earned Premium overall. Transportation line incurred the highest share of expenses, meriting attention for cost control initiatives.
+
+Executives should consider enhance underwriting criteria and risk selection in Engineering and Liability to curb large-loss volatility and restore profitability in these segments - perhaps through targeted risk engineering or client partnership programs. Furthermore optimize expenses processes within the Transportation line, ensuring efficiency gains. Last but not least, to continue investing in claims automation and analytics to further elevate customer experience. 
+
+![Loss Ratio and Combined Ratio - Overview](https://github.com/user-attachments/assets/c581a612-23f2-4c6a-ad32-ce6ad983369f)
+
+
+
+
