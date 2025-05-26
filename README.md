@@ -7,6 +7,7 @@
 - [Insights Deep-Dive](#insights-deep-dive)
   - [Premiums](#premiums)
   - [Claims](#claims)
+  - [Digital Sales Adoption Rate](#digital-sales-adoption-rate)
 ---
 ## Project Background
 
@@ -48,11 +49,22 @@ Executives should consider levaraging the Auto and Residence books for cross-sel
 
 - The porfolio averaged a frenquecy of 9,000 claims per year.
 - Average claim severity was approximately €220,000 across the analyzed period.
-- 33% of all claims were processed and paid, with an average processing time of 56 days - an indicator of operational efficiency.
+- 33% of all claims were processed and paid, with an average processing time of 56 days - an indicator of operational efficiency however indicates the need to strength claims operational process in order to close more claims.
 - The highest claims amounts were concentrated in the Engineering and Liability lines, due to several large losses - mostly in Italy and Netherlands. These segments drove loss ratios and combined ratios above 100% for Engineering, and around 95% for Liability.
 - Expenses represented 4.6% of Earned Premium overall. Transportation line incurred the highest share of expenses, meriting attention for cost control initiatives.
 
 Executives should consider enhance underwriting criteria and risk selection in Engineering and Liability to curb large-loss volatility and restore profitability in these segments - perhaps through targeted risk engineering or client partnership programs. Furthermore optimize expenses processes within the Transportation line, ensuring efficiency gains. Last but not least, to continue investing in claims automation and analytics to further elevate customer experience. 
+
+![Insight Deep Dive - Claims](https://github.com/user-attachments/assets/085bce0e-efd4-4301-91fa-f573eeb7b3f6)
+
+### Digital Sales Adoption Rate
+
+- The digital adoption rate dropped from 50% in 2020 to 35.5% by the end of 2022, reflecting a period of stagnation and potential customer or process friction
+- Folowwing a strategic realignment in marketing and improvements to the digital sales application, digital adoption rebounded sharply, reaching 70.1% by 2024
+
+The trend signaled an underlying process challenges that has lowered digital conversions. Seems that leadership responded well with two approaches retooling the market strategy to better engage digital-first clients and investing in a more intuitive digital sales platform. The interventions yielded immediate results, transforming the sales landscape and positioning digital as the primary growth channel for new business. 
+
+![Sales Digital Adoption Rate](https://github.com/user-attachments/assets/86fcbf02-c0c1-4888-94fc-9a7dd1577b6c)
 
 
 
