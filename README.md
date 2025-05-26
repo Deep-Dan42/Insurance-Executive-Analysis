@@ -27,6 +27,8 @@ The insurance dataset analysis of 145k records (100k policies + 45k claims) acro
 The performance is largely attributed to the strong operational discipline in the Auto and Transportation line of business, which posted combined ratios of 52.6% and 68.1% respectively - below industry benchmarks, indicating effective risk subscription criteria. In contrast, gains were partially offset by Engineering line of business facing significant challenges, with a combined ratio of 125.6% over the same period, highlightning the need for enhanced underwritting strategies or targeted loss prevention for the lob. 
 Location analysis further reveals that Portugal and Sweden outperformed other regions, benefiting from excepetional results in Transportation and Auto, as well as notably lower large claim amounts in Engineering and Liability. These favorable outcomes suggest strong market positioning, superior underwriitting, and effective loss prevention strategies in these countries. 
 
+![Executive Overview](https://github.com/user-attachments/assets/93419ea1-6cd6-4774-a1b1-bddf8cb5500a)
+
 ## Insights Deep-Dive
 
 ### Premiums
@@ -41,8 +43,6 @@ Location analysis further reveals that Portugal and Sweden outperformed other re
 Executives should consider levaraging the Auto and Residence books for cross-selling and customer retention strategies. Also addressing seasonality with marketing pushes or product launches in the third quarter to stabilize new business flows year-round.
   
 ![Written Premium Table](https://github.com/user-attachments/assets/5f02204b-f996-4559-8871-b9ecf970b842)
-![Written Premium Heatmap](https://github.com/user-attachments/assets/8d25571f-9013-4310-81cb-236e289db78f)
-
 
 ### Claims
 
@@ -54,7 +54,7 @@ Executives should consider levaraging the Auto and Residence books for cross-sel
 
 Executives should consider enhance underwriting criteria and risk selection in Engineering and Liability to curb large-loss volatility and restore profitability in these segments - perhaps through targeted risk engineering or client partnership programs. Furthermore optimize expenses processes within the Transportation line, ensuring efficiency gains. Last but not least, to continue investing in claims automation and analytics to further elevate customer experience. 
 
-![Loss Ratio and Combined Ratio - Overview](https://github.com/user-attachments/assets/c581a612-23f2-4c6a-ad32-ce6ad983369f)
+
 
 
 
