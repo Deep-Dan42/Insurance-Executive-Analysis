@@ -8,6 +8,7 @@
   - [Premiums](#premiums)
   - [Claims](#claims)
   - [Digital Sales Adoption Rate](#digital-sales-adoption-rate)
+- [Summary Recommendations](#summary-recommendations)
 ---
 ## Project Background
 
@@ -64,7 +65,33 @@ Executives should consider enhance underwriting criteria and risk selection in E
 
 The trend signaled an underlying process challenges that has lowered digital conversions. Seems that leadership responded well with two approaches retooling the market strategy to better engage digital-first clients and investing in a more intuitive digital sales platform. The interventions yielded immediate results, transforming the sales landscape and positioning digital as the primary growth channel for new business. 
 
-![Sales Digital Adoption Rate](https://github.com/user-attachments/assets/86fcbf02-c0c1-4888-94fc-9a7dd1577b6c)
+![Sales Digital Adoption Rate](https://github.com/user-attachments/assets/ff91df50-38bf-4a7a-95a0-7899bf06723c)
+
+---
+## Summary Recommendations
+
+### Premiums
+- Levaraging the Auto and Residence books for cross-selling and customer retention strategies.
+- Balancing the portfolio by developing mid-sized offerings in Engineering and Liability to reduce reliance on very large contracts.
+- Addresing seasonality with marketing pushes or product launches in the third quarter to stabilize new business flows year-round.
+
+### Claims
+- Enhance underwritting criteria and risk selection in Engineering and Liability to curb large-loss volatility and restore profitability in these segments.
+- Strengthen claims prevention and loss mitigation initiatives for high-ticket business, possibly through targeted risk engineering or client partnership programs.
+- Benchmark and optimize expense processes within the Transportation line, ensuring efficiency gains are tranlated into improved bottom-line performance.
+- Continue investing in claims automation and analytics to further accelerate processing times and elevate customer experience.
+
+### Sales Adoption Rate 
+- Sustain investment in digital platform enhancements to keep pace with technology trends and user expectations.
+- Leverage analytics to track user behavior and continuously remove friction points in the digital customer experience.
+- Align sales incentives and marketing messaging to drive further adoption, especially in underpenetraded segments or regions.
+- Regularly review customer feedback to identify and address emerging needs quickly, preserving the company's competitive advantage in digital distribution.
+
+---
+
+- Python querie to generate datasets [Python File](Data/Gen_Insurance_Dataset.ipynb)
+- 
+
 
 
 
