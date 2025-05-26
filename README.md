@@ -89,12 +89,7 @@ The trend signaled an underlying process challenges that has lowered digital con
 
 ---
 
-- Python querie to generate datasets [Python File](Data/Gen_Insurance_Dataset.ipynb)
-- 
-
-
-
-
-
-
-
+- Python queries on dataset generation [Python File](Data/Gen_Insurance_Dataset.ipynb)
+- SQL queries on Data Exploration [SQL File](Data/Insurance_Data_Project.sql)
+- Power BI file Executive Dashboard [Power BI](Data/InsuranceExecutiveDashboard.pbix)
+- Excel files for deep insights analysis on [Data](Data)
