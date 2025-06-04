@@ -35,7 +35,7 @@ Location analysis further reveals that Portugal and Sweden outperformed other re
 
 ### Premiums
 
-- Averaged €2.2 billion per year, totaling €11 billion across the four-year.
+- Averaged €2.2 billion per year, totaling €11 billion across the five-year period.
 - Reflects issuance of 100,000 policies from 2020 to 2024.
 - Auto and Residence lines recorded the highest number of policies issued, underscoring their central role in the portfolio's customer reach and risk diversification. 
 - Premium volumes were primarily influenced by high-value policies in the Engineering and Liability lines, which together accounted for 58% of total written premium.
